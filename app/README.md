@@ -54,9 +54,14 @@ BloomGarden/
 
 ## 🖼 Screenshots
 
-### Full Bloom Stage
-![Bloom Stage](assets/plant/bloom.gif)
+### 🌱 Seed Stage
+![Seed Stage](../assets/screenshots/seed.png)
 
+### 🌿 Growing Stage
+![Growing Stage](../assets/screenshots/growing.png)
+
+### 🌸 Full Bloom
+![Bloom Stage](../assets/screenshots/bloom.png)
 ---
 
 ## ▶️ Running the App
